@@ -1,1 +1,14 @@
 C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\LadderTourney.exe.config
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\LadderTourney.exe
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\LadderTourney.pdb
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\obj\Debug\LadderTourney.csprojResolveAssemblyReference.cache
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\obj\Debug\LadderTourney.exe
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\obj\Debug\LadderTourney.pdb
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\EntityFramework.dll
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\Storage.dll
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\Storage.pdb
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\EntityFramework.xml
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\LadderTourney.mdf
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\LadderTourney\bin\Debug\LadderTourney_log.ldf

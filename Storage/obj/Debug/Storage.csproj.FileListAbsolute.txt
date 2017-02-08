@@ -1,0 +1,13 @@
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\bin\Debug\Storage.dll.config
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\bin\Debug\Storage.dll
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\bin\Debug\Storage.pdb
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\bin\Debug\EntityFramework.dll
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\bin\Debug\EntityFramework.xml
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\obj\Debug\Storage.dll
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\obj\Debug\Storage.pdb
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\obj\Debug\Storage.Migrations.InitialBdCreation.resources
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\obj\Debug\Storage.csproj.GenerateResource.Cache
+C:\Users\Justin.Kasbrick\Dropbox\Documents\LadderTourney\Storage\obj\Debug\Storage.Migrations.AddEvents.resources
